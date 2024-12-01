@@ -5,3 +5,4 @@ Books:
     - https://www.statlearning.com/
     - https://github.com/intro-stat-learning/ISLP_labs/tree/stable
     - https://www.lackos.xyz/itsl
+- Computer Networking: A Top-Down Approach (8e)
