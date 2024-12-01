@@ -35,6 +35,6 @@ while True:
         thread = threading.Thread(target=web_process, args=(connection_sock,))
         thread.start()
     except KeyboardInterrupt:
-        print('Close serve...')
+        print('Close server...')
         server_sock.close()
         break
